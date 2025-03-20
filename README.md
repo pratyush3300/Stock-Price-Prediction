@@ -1,4 +1,4 @@
-Stock Price Prediction using Machine Learning
+Stock Price Prediction using Machine Learning :-
 This project predicts stock prices using machine learning techniques, leveraging historical data from NVIDIA and Tata Global. The model analyzes trends, identifies patterns, and makes future price predictions based on past stock performance.
 
 Features:
