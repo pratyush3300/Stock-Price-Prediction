@@ -47,4 +47,12 @@ Data includes:
 ## 📈 Result Obtained:
  The model was trained on NVIDIA and Tata Global stock price data, offering insights into market trends and predicting future prices with reasonable accuracy.
 
+## 📬 Contact Me:
+Feel free to connect with me:
+
+My LinkedIn: ([https://www.linkedin.com/in/pratyush-prasoon-a6a8a9267/])
+
+Email: pratyushprasoon138@gmail.com
+
+
 
